@@ -47,15 +47,6 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
-		},
-	"\/source\/sketch.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/sketch-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
 		}
 	},
 "hooks": [
