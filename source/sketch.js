@@ -1,7 +1,11 @@
 function setup() {
-	createCanvas(640, 480);
+	createCanvas(window.innerWidth, window.innerHeight);
 }
 
 function draw() {
  	ellipse(50, 50, 80, 80);
+}
+
+window.onresize = function() {
+	setup();
 }
